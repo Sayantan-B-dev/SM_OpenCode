@@ -17,6 +17,10 @@ A comprehensive OpenCode learning repository with notes, tutorials, setup guides
 
 This repository serves as a structured knowledge base for learning and mastering OpenCode through curated notes and hands-on examples.
 
+## YouTube links
+[Master_OpenCode_in_28_minutes](https://www.youtube.com/watch?v=WOOzCHaQipU)
+[OpenCode_Tutorial_for_Beginners](https://www.youtube.com/watch?v=uZGDO0L-Dr4)
+[OpenCode_Full_Course](https://www.youtube.com/playlist?list=PLd0lZIptCEwPER1oNE8QHeQwRhAV_XWM_)
 
 ## Folder Structure
 ```txt
