@@ -19,7 +19,9 @@ This repository serves as a structured knowledge base for learning and mastering
 
 ## YouTube links
 [Master_OpenCode_in_28_minutes](https://www.youtube.com/watch?v=WOOzCHaQipU)
+
 [OpenCode_Tutorial_for_Beginners](https://www.youtube.com/watch?v=uZGDO0L-Dr4)
+
 [OpenCode_Full_Course](https://www.youtube.com/playlist?list=PLd0lZIptCEwPER1oNE8QHeQwRhAV_XWM_)
 
 ## Folder Structure
