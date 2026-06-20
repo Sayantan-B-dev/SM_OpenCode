@@ -1,0 +1,6 @@
+..also try cloud version if the pc is bad
+
+alternatively use opencode to use gemma but it might be rate limited..all info aobout it with openroute free model... and all process and all ways to do it...all about to make it work perfectly...
+
+
+pure flextbility and conclusion of how opencode can be used truely free..completly free....
